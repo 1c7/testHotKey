@@ -1,15 +1,15 @@
-## Swift macOS app - Demo for `Hotkey`
+## Swift macOS app - Demo for `Hotkey` (2019-May-18)
 
-### What is this?
+## What is this?
 Show `HotKey` doesn't work, but `Magnet` does.
 
 * HotKey: https://github.com/soffes/HotKey
 * Magnet: https://github.com/Clipy/Magnet
 
-### What this for?
+## What this for?
 `HotKey` Github issue
 
-### Goals
+## Goals
 Figuring out why `HotKey` doens't work and fix it.     
 I prefer use `HotKey` over `Magnet`, because `HotKey` have better syntax (easier)    
 Here is comparison: 
@@ -44,9 +44,7 @@ what if I only want listen `Space` key? or `Ctrl + 3`? How do I do it?
 ### How to run?
 ```
 git clone https://github.com/1c7/testHotKey.git
+cd testHotKey
+open .
 ```
-double click `testHotKey.xcodeproj`
-
-### Time
-2019-May-18
-
+Double click `testHotKey.xcodeproj`
