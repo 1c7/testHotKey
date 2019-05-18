@@ -1,5 +1,9 @@
 ## Swift macOS app - Demo for `Hotkey` (2019-May-18)
 
+## Screenshot 
+Code in `ViewController.swift`
+![demo code](./README-images/demo.jpg)
+
 ## What is this?
 Show `HotKey` doesn't work, but `Magnet` does.
 
@@ -37,9 +41,6 @@ if let keyCombo = KeyCombo(keyCode: 11, carbonModifiers: 4352) {
 no idea what is `keyCode: 11` and `carbonModifiers: 4352`     
 what if I only want listen `Space` key? or `Ctrl + 3`? How do I do it?   
 `identifier: "CommandControlB"` seen like only for `unregister`, not sure
-
-### Code in `ViewController.swift`
-![demo code](./README-images/demo.jpg)
 
 ### How to run?
 ```
