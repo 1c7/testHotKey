@@ -4,11 +4,18 @@
 Code in `ViewController.swift`
 ![demo code](./README-images/demo.jpg)
 
+## What I am trying to do
+Find a easy to use Shortcut library for my Swift macOS app project.    
+Seem like there are only 2 lib
+
+* [HotKey](https://github.com/soffes/HotKey) 
+* [Magnet](https://github.com/Clipy/Magnet) are available solution.   
+
+I want to listen `CTRL + 3`, `Space` shortcut for my app.   
+
+
 ## What is this?
 Show `HotKey` doesn't work, but `Magnet` does.
-
-* HotKey: https://github.com/soffes/HotKey
-* Magnet: https://github.com/Clipy/Magnet
 
 ## What this for?
 `HotKey` Github issue
