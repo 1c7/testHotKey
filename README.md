@@ -4,6 +4,14 @@
 Code in `ViewController.swift`
 ![demo code](./README-images/demo.jpg)
 
+## How to run?
+```
+git clone https://github.com/1c7/testHotKey.git
+cd testHotKey
+open .
+```
+Double click `testHotKey.xcodeproj`
+
 ## What I am trying to do
 Find a easy to use Shortcut library for my Swift macOS app project.    
 Seem like there are only 2 lib
@@ -50,11 +58,3 @@ if let keyCombo = KeyCombo(keyCode: 11, carbonModifiers: 4352) {
 no idea what is `keyCode: 11` and `carbonModifiers: 4352`     
 what if I only want listen `Space` key? or `Ctrl + 3`? How do I do it?   
 `identifier: "CommandControlB"` seen like only for `unregister`, not sure
-
-### How to run?
-```
-git clone https://github.com/1c7/testHotKey.git
-cd testHotKey
-open .
-```
-Double click `testHotKey.xcodeproj`
