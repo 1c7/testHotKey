@@ -9,19 +9,21 @@ Find a easy to use Shortcut library for my Swift macOS app project.
 Seem like there are only 2 lib
 
 * [HotKey](https://github.com/soffes/HotKey) 
-* [Magnet](https://github.com/Clipy/Magnet) are available solution.   
+* [Magnet](https://github.com/Clipy/Magnet) 
 
 I want to listen `CTRL + 3`, `Space` shortcut for my app.   
 
 
 ## What is this?
-Show `HotKey` doesn't work, but `Magnet` does.
+Show `HotKey` doesn't work   
+but `Magnet` does    
 
 ## What this for?
 `HotKey` Github issue
 
 ## Goals
-Figuring out why `HotKey` doens't work and fix it.     
+Figuring out why `HotKey` doens't work and fix it.      
+
 I prefer use `HotKey` over `Magnet`, because `HotKey` have better syntax (easier)    
 Here is comparison: 
 
