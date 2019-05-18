@@ -34,6 +34,9 @@ if let keyCombo = KeyCombo(keyCode: 11, carbonModifiers: 4352) {
     print("Magnet Work! \(Date())")
 }
 ```
+no idea what is `keyCode: 11` and `carbonModifiers: 4352`     
+what if I only want listen `Space` key? or `Ctrl + 3`? How do I do it?   
+`identifier: "CommandControlB"` seen like only for `unregister`, not sure
 
 ### Code in `ViewController.swift`
 ![demo code](./README-images/demo.jpg)
