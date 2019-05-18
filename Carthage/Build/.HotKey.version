@@ -1,0 +1,10 @@
+{
+  "commitish" : "v0.1.1",
+  "Mac" : [
+    {
+      "name" : "HotKey",
+      "hash" : "c7e830a339fd9d1837186f7d5e5c63e8b24086f245818847bf32b80fc4bc9640",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    }
+  ]
+}
